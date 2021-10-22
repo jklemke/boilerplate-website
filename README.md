@@ -1,2 +1,2 @@
-# boilerplate-website
-Grox.info web site structure using https://html5boilerplate.com/ as a foundation.
+# jklemke.github.io
+Joe Klemke grox.info model theory vocabulary
